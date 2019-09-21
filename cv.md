@@ -12,3 +12,6 @@ function sumCubes(n){
   return sum;
 }
 ```
+6. **Experience:** I don't have yet much experience. Nevertheless, I have been practising solving tasks on [Codewars](https://www.codewars.com/) and improving my coding skills. You can see my Profile [here:](https://www.codewars.com/users/a-popova). Also, I try to learn something new by coding different projects such as calculator, to-do list, etc. 
+7. **Education:** I finished Gomel State Regional lyceum (specialization - English) and moved to Vilnius to study Cultural Heritage and Tourism at European Humanities University. Also, I have spent one year abroad (Germany) by doing Erasmus exchange program. Then I came back to Belarus and tried to work in tourism sphere. Eight months was enough period for me to understand that I want to try something different. I chose IT sphere because I have many friends in there and completed courses 'Software Testing'(manual). While working as a QA engineer, I became more and more interested in programming and started to learn it in my spare time. Interest became more serious and I decided that I am ready to devote more time to it, so now I am taking courses by Rolling Scopes community.
+8. **English:** currently my level is B2. I can communicate with natives quite fluently, watch movies and series in English.
